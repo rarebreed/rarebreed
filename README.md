@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rarebreed
+- 👀 I’m interested in: rust, data engineering, distributed computing, datafusion, arrow, ML
+- 🌱 I’m currently learning: datafusion, airflow, spark, AWS, kubernetes
+- 💞️ I’m looking to collaborate on: anything rust
+- 📫 How to reach me: placeoftheway@gmail.com
